@@ -1,0 +1,54 @@
+Tesla Model S Long Range:610
+Tesla Model S Performance:590
+Volkswagen ID.3 77 kWh Tour:572
+Tesla Model 3 LR 4WD:560
+Tesla Model Y LR 2WD:540
+Tesla Model 3 Performance:530
+Tesla Model X Long Range:505
+Tesla Model Y LR 4WD:505
+Tesla Model X Performance:485
+Jaguar I-Pace:480
+Tesla Model Y Performance:480
+Polestar 2:470
+Polestar 2 Performance:470
+BMW iX3:459
+Kia e-Niro:455
+Kia e-Soul:452
+Porsche Taycan Turbo:450
+Hyundai Kona Electric 64 kWh:449
+Audi e-tron Sportback 55:446
+Volkswagen ID.3 58 kWh Life:427
+Mercedes EQC 4MATIC:417
+Porsche Taycan Turbo S:412
+Audi e-tron 55:411
+Tesla Model 3 RWD Stand.:409
+Porsche Taycan 4S:407
+Volvo XC40 Recharge P8:400
+Renault Zoe Go 52 kWh R110:393
+Renault Zoe 52 kWh R110:393
+Nissan Leaf+ 62 kWh:385
+Renault Zoe 52 kWh R135:383
+Tesla Model X Standard:375
+Audi e-tron Sportback 50:347
+Peugeot e-208:340
+Volkswagen ID.3 45 kWh:330
+DS 3 Crossbach:320
+Fiat 500e:320
+BMW i3 120Ah:310
+BMW i3s 120Ah:310
+Nissan e-NV200 Combi:301
+Nissan e-NV200 Skåp:301
+Audi e-tron 50:300
+Opel Corsa-e:300
+Hyundai IONIQ 38 kWh:294
+Hyundai Kona Electric 39 kWh:289
+Nissan Leaf 40kWh:270
+Skoda Citigoe IV:265
+Seat Mii Electric:260
+Volkswagen e-up!:260
+Mini Cooper Electric:234
+Volkswagen e-Golf:231
+Honda e Advanced:220
+Honda e:220
+Mazda MX-30:200
+Renault Kangoo ZE:200
