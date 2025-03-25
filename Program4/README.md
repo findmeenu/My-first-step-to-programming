@@ -6,7 +6,7 @@ Any suspicion about cheating, cooperation, and/or plagiarism will be reported to
 The students script will be checked both manually and using anti-plagiarism software
  
 
-Instructions
+Instructions:
 
 Analyse the problem below using Polya's Problem solving TechniqueLinks to an external site.
 Create a script named Lab2_1.py that solves the problem according to the given instructions
@@ -14,14 +14,16 @@ Pay special attention when formatting the output as it must match the specified 
 Upload the script using the link below
  
 
-Task description
+Task description:
+
 With this new work from home situation your small team of developers has quickly found out how much questions you used to ask each other in person. Now that you all work from home most of the time you have resorted to using online chat instead. But this has resulted in that you all have to go back and read endless chat logs when you forget what you agreed on earlier.
 
 To remedy this problem, you have decided to write a small script that reads a log file and then allow you to search for all messages sent by one user. To make the script a bit more versatile you have decided that the path to the log file shall be sent as a command line argument to the script. As everyone in the team is a bit sloppy when typing, the script needs to have error handling that clearly informs the user in case the specified path to the log file does not exist.
 
 The script shall have a main function, a function for reading from the log file, and a function for formatting and displaying a message on the screen. Here are some rules for how each of the functions shall work:
 
-read_file(filename)
+read_file(filename):
+
 Shall read the file specified by the parameter filename and create a list of tuples that is then returned. Each tuple shall consist of a name and a message. In the file, each message takes up two rows, where the first row contains the senders name, and the second row contains the text of the message. Each log file can of course contain many messages sent by many different persons. If the filename parameter is not a valid path, the function shall raise an FileNotFoundError (do not have a try-except in this function).
 
 display_entry(name, message)
